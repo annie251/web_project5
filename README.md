@@ -2,9 +2,9 @@
 
 Submitted by: Annie Nguyen
 
-This web app: **insert description**
+This web app: generates random cats, can ban randomly generated cat type/breed
 
-Time spent: **X** hours spent in total
+Time spent: 12 hours spent in total
 
 ## Required Features
 
